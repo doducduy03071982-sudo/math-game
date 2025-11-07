@@ -1,0 +1,21 @@
+🎮 HƯỚNG DẪN SỬ DỤNG GAME TOÁN HỌC
+
+1. Mở file index.html bằng trình duyệt Chrome (hoặc Edge, Firefox)
+   → Nhấn đúp vào file hoặc chuột phải → "Open with" → chọn trình duyệt
+
+2. Nhập tên của bạn vào ô "Nhập tên bạn"
+   → Nhấn nút "Bắt đầu chơi"
+
+3. Trả lời 20 câu trắc nghiệm (số học + hình học)
+   → Chọn đáp án đúng bằng cách nhấn nút
+
+4. Trả lời 5 câu tự luận
+   → Gõ đáp án vào ô và nhấn "Gửi"
+
+5. Sau khi hoàn thành, điểm số và thời gian sẽ hiện ra
+
+💡 Mẹo:
+- Dùng trình duyệt mới nhất để chơi mượt
+- Có thể chia sẻ game qua Replit hoặc GitHub Pages
+
+Chúc bạn chơi vui và học tốt!
