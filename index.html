@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Game Toán Học</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="sidebar">
+    <img src="https://cdn-icons-png.flaticon.com/512/201/201818.png" alt="Math Icon" />
+    <p>📘 Mẹo: Tập trung nhé!</p>
+  </div>
+
+  <div class="main">
+    <h1>🎮 Game Toán Học</h1>
+    <div id="info">
+      <label>Nhập tên bạn: <input type="text" id="playerName" /></label>
+      <button onclick="startGame()">Bắt đầu chơi</button>
+    </div>
+    <div id="game"></div>
+    <div id="result"></div>
+  </div>
+
+  <div class="sidebar">
+    <img src="https://cdn-icons-png.flaticon.com/512/201/201818.png" alt="Math Icon" />
+    <p>🏆 Cố lên để vào top 5!</p>
+  </div>
+
+  <audio id="correctSound" src="correct.aiff"></audio>
+  <audio id="wrongSound" src="wrong.mp3"></audio>
+  <script src="script.js"></script>
+</body>
+</html>
