@@ -1,2 +1,3 @@
 # math-game
-Đây là game do 1 cậu bé lớp 6 làm ra cùng với AI hỗ trợ
+Đây là game dự thi của lớp 6A1 THCS Vĩng Ngọc
+
